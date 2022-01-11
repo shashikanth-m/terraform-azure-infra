@@ -23,7 +23,17 @@ I built this to get hands-on with real-world Infrastructure as Code in Azure. It
 
 ## 📸 Screenshots
 
-*(Coming soon — will upload screenshots of Azure Portal + Terraform output)*
+### Azure Portal — Resource Group View
+![Resource Group](images/azure-rg.png)
+
+### Terraform Apply Output (Terminal)
+![Terraform Apply](images/terraform-apply.png)
+
+### Web Output in Browser
+![Browser Output](images/browser-output.png)
+
+### Terraform Outputs
+![Terraform Output](images/terraform-output.png)
 
 ## 📂 Structure
 

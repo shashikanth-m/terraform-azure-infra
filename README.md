@@ -29,7 +29,7 @@ I built this to get hands-on with real-world Infrastructure as Code in Azure. It
 ---
 
 ### Terraform Apply Output (Terminal)
-![Terraform Apply](images/Terminal_Terraform apply.png)
+![Terraform Apply](images/Terminal_Terraform_apply.png)
 
 ---
 
@@ -38,7 +38,7 @@ I built this to get hands-on with real-world Infrastructure as Code in Azure. It
 
 ---
 
-### Terraform Outputs in CLI
+### Terraform Outputs in Terminal
 ![Terraform Output](images/Terraform_output.png)
 
 
